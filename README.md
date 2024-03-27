@@ -17,9 +17,18 @@ In essence, this private AI represents a transformative force, propelling FMCG c
 - **Effortless Automation**: Streamline workflows and automate repetitive tasks across the value chain, freeing up resources for strategic initiatives.
 - **Competitive Edge**: Gain invaluable insights into consumer behavior, market trends, and competitor strategies, ensuring sustained market leadership.
 
+## Contribution
+
+Join us in shaping the future of FMCG business dynamics! We welcome contributions, bug reports, and feature requests on our GitHub repository.
+
+## License
+
+SmartSell is licensed under the MIT License - see the [LICENSE]MIT file for details.
+
+
 ## Installation
 Get started with SmartSell in minutes:
-```bash
-pip install smartsell
+
+
 
 
